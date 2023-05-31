@@ -1,11 +1,14 @@
 # Natural-Language-Processing-Specialization-2023
 My solved assignments of the Natural Language Processing Specialization course from DEEPLEARNING.AI
 
-###Courses
+### COURSES
 
 Course 1: Natural Language Processing with Classification and Vector Spaces
+
 Course 2: Natural Language Processing with Probabilistic Models
+
 Course 3: Natural Language Processing with Sequence Models
+
 Course 4: Natural Language Processing with Attention Models
 
 ### COVERED TOPICS
